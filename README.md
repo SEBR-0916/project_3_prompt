@@ -27,21 +27,23 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Utilize flexbox or grid (or both)
 - Include a minimum of 3 Associated Mongoose Models
-- Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations
-- Display data from each model on the frontend (unless given an exemption on one by an Instructor)
+- Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations across Front and Back Ends
+- Display data from each model on the frontend 
 - Must be able to navigate between different pages (React Router)
 - Have at least **50 _meaningful_ `git` commits**. You should be committing your changes every time you build a new feature.
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments should be in your code to describe what your functions are doing.
-- Be deployed on [Heroku](https://www.heroku.com/)
+
 
 ## **Project _Completed_ Due Date:** 7/10/23 by 9:00am EST
 
 ## Tips
 
-- Chat and bounce ideas off your classmates and gather useful feedback
+-  Research what you consider the best websites out there to get ideas/inspiration.
+- Decide who will be git lead in your group and start brainstorming as soon as possible.Chat and bounce ideas off your classmates and gather useful feedback
 - Commit early (day one) and often (everytime you implement a new feature)
 - Implement all project requirements _before_ moving on to post-MVP features
 - Make it look professional (this is for you to showcase - it could land you a job)
+
 
 ## Post-MVP Ideas
 
