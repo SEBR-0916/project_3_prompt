@@ -12,6 +12,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Full Entity Relationship Diagram (ERD) for the backend
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
 - A **public** Trello board for tracking your development progress with goals and tasks for the coming weekend
+- Group proposals will be Friday Morning. You may create a slideshow presentation if you would like to add to your proposal
 
 ## **Project _Approval_ Due Date:** 6/30/23 by 9:00am EST
 
@@ -19,9 +20,8 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 
 **Your project must:**
 
-- Be a **new repo**. Create a new repo in your github and build your project there. **DO NOT** name your repository Project 2, give it a real name.
+- Be in **new repos**. Create a new repo in your github  for Front End and Back End, and build your project there. **DO NOT** name your repository Project 3, give it a real name.
 - Be written using the languages and frameworks *learned in this course so far*
-- ***Not*** be written using *any other languages or frameworks ***not*** covered in this course so far* (TypeScript, Sass, jQuery, UI Frameworks, etc.)
 - Have a separate directory for the frontend (client) and have your backend within the main repository.
 - Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/))
 - Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
