@@ -12,7 +12,8 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Full Entity Relationship Diagram (ERD) for the backend
 - Component Hierarchy Diagram (Lucidchart or other) for the frontend
 - A **public** Trello board for tracking your development progress with goals and tasks for the coming weekend
-- Group proposals will be Friday Morning. You may create a slideshow presentation if you would like to add to your proposal
+- Proposals will be Friday Morning in front of the class. You may create a slideshow presentation if you would like to add to your proposal
+- Proposals must include responsibilities/tasks for each group member as well as goals and schedule for the long weekend and project week
 
 ## **Project _Approval_ Due Date:** 6/30/23 by 9:00am EST
 
