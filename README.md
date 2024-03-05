@@ -15,7 +15,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Proposals will be Friday Morning. You may create a slideshow presentation if you would like to add to your proposal
 - Proposals must include responsibilities/tasks for each group member as well as goals and schedule for the long weekend and project week
 
-## **Project _Approval_ Due Date:** 11/3/23 by 9:00am EST
+## **Project _Approval_ Due Date:** 3/8/24 by 9:00am EST
 
 ## Project Requirements (MVP)
 
@@ -35,7 +35,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Your code should be properly indented, spaced, and within code blocks. **DO NOT** leave in commented out code that was left unused (bad practice). Comments should be in your code to describe what your functions are doing.
 
 
-## **Project _Completed_ Due Date:** 11/13/23 by 9:00am EST
+## **Project _Completed_ Due Date:** 3/15/23 by 9:00am EST
 
 ## Tips
 
