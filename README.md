@@ -25,7 +25,7 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Be written using the languages and frameworks *learned in this course so far*
 - Have a separate directory for the frontend (client) and have your backend within the main repository.
 - Include a _beautiful_, professional **README.md** (use [markdown](https://guides.github.com/features/mastering-markdown/))
-- Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your deployed site and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
+- Your README should have your name, links to socials, a detailed description of your project, technologies used, a getting started section (with links to your ERD, Component Diagrams, Wireframes and Trello), screenshots of your final product (no more than 2-3), future updates, and credits.
 - Utilize flexbox or grid (or both)
 - Include a minimum of 3 Associated Mongoose Models
 - Have Full CRUD (CREATE, READ, UPDATE, DELETE) operations across Front and Back Ends
@@ -53,6 +53,11 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Hidden routes using conditional rendering to mimic the functionality of user authentication
 - Implement OAuth
 - Integrate a 3rd party API (Ask us for a list)
+
+
+## Help 
+- Each group will have 5 Tokens to redeem for 1 on 1 help sessions through the project week
+- Each Token will grant 20 minutes of 1 on 1 help with your instructors
 
 ## A Note on Plagiarism
   
