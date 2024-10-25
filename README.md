@@ -64,3 +64,5 @@ Your task is to build a full-stack (Mongoose/Express/React/Node), professional-l
 - Plagiarism is a serious offense and grounds for immediate withdrawal.
 - You are encouraged to ask others, including students, instructors, and Stack Overflow for help. However, it is ***not acceptable to copy*** another persons code and submit it as your own. More importantly, it is detrimental to your learning and growth.
 - Small snippets of code that solve small problems taken from Stack Overflow are generally an exception to this rule. If you aren't sure, it is your responsibility to ***ask your instructor***. To be on the safe side, we ask that you credit the person/resource you got the code from in a comment, and let an instructor take a look at it.
+
+- "A Group Can Pass, A Student Can Fail"
